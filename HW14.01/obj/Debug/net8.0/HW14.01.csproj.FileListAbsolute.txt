@@ -1,0 +1,14 @@
+C:\Users\Rog\source\repos\HW14.01\HW14.01\bin\Debug\net8.0\HW14.01.exe
+C:\Users\Rog\source\repos\HW14.01\HW14.01\bin\Debug\net8.0\HW14.01.deps.json
+C:\Users\Rog\source\repos\HW14.01\HW14.01\bin\Debug\net8.0\HW14.01.runtimeconfig.json
+C:\Users\Rog\source\repos\HW14.01\HW14.01\bin\Debug\net8.0\HW14.01.dll
+C:\Users\Rog\source\repos\HW14.01\HW14.01\bin\Debug\net8.0\HW14.01.pdb
+C:\Users\Rog\source\repos\HW14.01\HW14.01\obj\Debug\net8.0\HW14.01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rog\source\repos\HW14.01\HW14.01\obj\Debug\net8.0\HW14.01.AssemblyInfoInputs.cache
+C:\Users\Rog\source\repos\HW14.01\HW14.01\obj\Debug\net8.0\HW14.01.AssemblyInfo.cs
+C:\Users\Rog\source\repos\HW14.01\HW14.01\obj\Debug\net8.0\HW14.01.csproj.CoreCompileInputs.cache
+C:\Users\Rog\source\repos\HW14.01\HW14.01\obj\Debug\net8.0\HW14.01.dll
+C:\Users\Rog\source\repos\HW14.01\HW14.01\obj\Debug\net8.0\refint\HW14.01.dll
+C:\Users\Rog\source\repos\HW14.01\HW14.01\obj\Debug\net8.0\HW14.01.pdb
+C:\Users\Rog\source\repos\HW14.01\HW14.01\obj\Debug\net8.0\HW14.01.genruntimeconfig.cache
+C:\Users\Rog\source\repos\HW14.01\HW14.01\obj\Debug\net8.0\ref\HW14.01.dll
